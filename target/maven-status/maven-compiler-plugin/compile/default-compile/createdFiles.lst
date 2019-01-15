@@ -1,0 +1,8 @@
+com\employees\config\AppConfig.class
+com\employees\dao\EmployeeRecordReader.class
+com\employees\model\PairOfEmployees.class
+com\employees\service\EmployeeManagerImpl.class
+com\employees\controller\EmployeesController.class
+com\employees\dao\RecordReader.class
+com\employees\service\EmployeeManager.class
+com\employees\model\EmployeeRecord.class
